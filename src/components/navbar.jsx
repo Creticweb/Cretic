@@ -6,7 +6,7 @@ const Menu = (props) => {
 
   return (
 
-      <div className="content-wrapper">
+      <div className="">
         <nav className="navbar navbar-fancy navbar-fancy-dark inverse-text navbar-expand-lg flex-column">
           <div className="container">
             <div className="navbar-brand"><a href="/"><img src={logoO1x} srcset={logoO1x + ' 1x,' + logoO2x + ' 2x'} alt="logo"/></a></div>
