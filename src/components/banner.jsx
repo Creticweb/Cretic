@@ -1,9 +1,8 @@
-import React from "react";
-//import Typist from 'react-typist';
-//import { Container, Row, Col } from 'reactstrap';
-//import rack from "../patterns/rack.svg";
-//import vps from "../patterns/cloudvps.svg";
-//import "../style.min.css";
+import React from 'react';
+import OwlCarousel from 'react-owl-carousel';
+import 'owl.carousel/dist/assets/owl.carousel.css';
+import 'owl.carousel/dist/assets/owl.theme.default.css';
+
 
 const Banner = () => {
   return (

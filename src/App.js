@@ -16,6 +16,7 @@ import "./style.css";
 import "./style/css/font/font2.css";
 import ReactGa from "react-ga";
 import Navbar from "./components/navbar";
+//import Loading from "./components/loading";
 
 const Home = lazy(() => import("./components/home"));
 const GST = lazy(() => import("./pages/gst"));
