@@ -39,7 +39,7 @@ export default function Contact() {
         <div class="row">
           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
             <h2 class="section-title text-center">Drop Us a Line</h2>
-            <p class="text-center">Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat. Praesent commodo cursus.</p>
+            <p class="text-center">Cretic Solutions & Cretic Web Solutions is a part of SRV Impex International.</p>
         <div class="space30"></div>
             <form
                 className=""
