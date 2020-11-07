@@ -68,7 +68,7 @@ const Menu = (props) => {
         {/* /.navbar */}
         <div className="offcanvas-info inverse-text">
           <button className="plain offcanvas-close offcanvas-info-close"><i className="jam jam-close" /></button>
-          <a href="/"><img src="/" srcSet="style/images/logo-light.png 1x, style/images/logo-light@2x.png 2x" alt="" /></a>
+          <a href="/"><img src="/" srcSet={logoO1x} srcset={logoO1x + ' 1x,' + logoO2x + ' 2x'} alt="logo" /></a>
           <div className="space30" />
           <p>This is not a Government run Website and the form is not the actual registration form, it is just to collect information from our clients so that our expert can easily understand their business or needs. By proceeding forward with this website you are aware that we are a private company managing this website and providing assistance based on the request from our customers and the fee collected in this website is a consultancy fee.</p>
           <div className="space20" />
