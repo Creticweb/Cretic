@@ -71,7 +71,7 @@ const GSTFAQ = () => {
                   {/* /.card-header */}
                   <div id="accordion-collapse-1-4" className="collapse" aria-labelledby="accordion-heading-1-4" data-target="#accordion-1">
                     <div className="card-body">
-                      <p>HSN or SAC code refers to Goods and Services code. At Viapari, the GST expert helps you to choose the suitable HSN or SAC Code after getting the details about the business.</p>
+                      <p>HSN or SAC code refers to Goods and Services code. At Cretic Solutions, the GST expert helps you to choose the suitable HSN or SAC Code after getting the details about the business.</p>
                     </div>
                     {/* /.card-body */}
                   </div>
@@ -119,7 +119,7 @@ const GSTFAQ = () => {
                 <div className="card shadow">
                   <div className="card-header" id="accordion-heading-2-3">
                     <h5>
-                      <button className="collapsed" data-toggle="collapse" data-target="#accordion-collapse-2-3" aria-expanded="false" aria-controls="accordion-collapse-2-3">How do I have to send my documents to Viapari</button>
+                      <button className="collapsed" data-toggle="collapse" data-target="#accordion-collapse-2-3" aria-expanded="false" aria-controls="accordion-collapse-2-3">How do I have to send my documents to Cretic Solutions</button>
                     </h5>
                   </div>
                   {/* /.card-header */}

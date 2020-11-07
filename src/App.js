@@ -3,6 +3,7 @@ import {
   BrowserRouter as Router,
   Route,
   Switch,
+  Redirect,
 } from "react-router-dom";
 import { Helmet } from "react-helmet";
 import "./App.css";
@@ -19,6 +20,7 @@ import Navbar from "./components/navbar";
 //import Loading from "./components/loading";
 
 const Home = lazy(() => import("./components/home"));
+const NotFound = lazy(() => import("./components/loading"));
 const GST = lazy(() => import("./pages/gst"));
 const Contact = lazy(() => import("./pages/contact"));
 const GstBuy = lazy(() => import("./pages/gstbuy"));
@@ -58,6 +60,8 @@ function App() {
               <Route path="/fssai-registration" component={FSSAI} />
               <Route path="/contact" component={Contact} />
               <Route path="/gst-buy" component={GstBuy} />
+              <Route path="/not-found" component={NotFound} />
+              <Redirect to="/not-found" />
             </Switch>
           </main>
         </Suspense>
