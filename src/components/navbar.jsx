@@ -74,7 +74,7 @@ const Menu = (props) => {
           <div className="space20" />
           <div className="widget">
             <h5 className="widget-title">Contact Info</h5>
-            <address> Moonshine St. 14/05 <br /> Light City, London <div className="space20" />
+            <address> Habra SN Dey Rd. 101/194 <br /> West Bengal, India <div className="space20" />
               <a href="mailto: creticweb@gmail.com" className="nocolor">creticweb@gmail.com</a><br /><i className="jam jam-whatsapp" /> +91 (964) 754 00 52 </address>
           </div>
           {/* /.widget */}
@@ -83,7 +83,7 @@ const Menu = (props) => {
             <ul className="list-unstyled">
               <li><a href="/about" className="nocolor">About</a></li>
               <li><a href="/tnc" className="nocolor">Terms of Conditions</a></li>
-              <li><a href="/" className="nocolor">Privacy Policy</a></li>
+              <li><a href="/policy" className="nocolor">Privacy Policy</a></li>
               <li><a href="/contact" className="nocolor">Contact Us</a></li>
             </ul>
           </div>

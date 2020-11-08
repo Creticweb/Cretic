@@ -23,7 +23,7 @@ const Footer = () => {
                   <li><a href="/gst-invoice">GST Invoicing</a></li>
                   <li><a href="/gst-return">GST Return Filing</a></li>
                   <li><a href="/eway">eWay Bill</a></li>
-                  <li><a href="/wk">GST Registration for Foreigners</a></li>
+                  <li><a href="/gst-registration">GST Registration for Foreigners</a></li>
                 </ul>
               </div>
               {/* /.widget */}
