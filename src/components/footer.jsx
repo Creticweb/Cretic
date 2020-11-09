@@ -61,7 +61,7 @@ const Footer = () => {
               <div className="widget">
                 <h5 className="widget-title">Contact</h5>
                 <address> 101/194 Shambhu Nath Dey Road , Habra</address>
-                <a href="mailto: creticweb@gmail.com">creticweb@gmail.com</a><br /> <i className="jam jam-whatsapp" />+91 (964) 754 00 52
+                <a href="mailto: creticweb@gmail.com">creticweb@gmail.com</a><br /> <i className="jam jam-whatsapp" />+91 (963) 545 41 65
               </div>
               {/* /.widget */}
             </div>

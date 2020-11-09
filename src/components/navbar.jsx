@@ -75,7 +75,7 @@ const Menu = (props) => {
           <div className="widget">
             <h5 className="widget-title">Contact Info</h5>
             <address> Habra SN Dey Rd. 101/194 <br /> West Bengal, India <div className="space20" />
-              <a href="mailto: creticweb@gmail.com" className="nocolor">creticweb@gmail.com</a><br /><i className="jam jam-whatsapp" /> +91 (964) 754 00 52 </address>
+              <a href="mailto: creticweb@gmail.com" className="nocolor">creticweb@gmail.com</a><br /><i className="jam jam-whatsapp" /> +91 (963) 545 41 65 </address>
           </div>
           {/* /.widget */}
           <div className="widget">

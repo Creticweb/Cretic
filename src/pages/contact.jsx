@@ -47,7 +47,7 @@ const Contact = (props) => {
           </div>
                   <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="help-container">
-              <a href="tel:+919647540052" class="help-item gocheck">
+              <a href="tel:+919635454165" class="help-item gocheck">
                 <div class="img">
                   <img class="svg ico" src={phone} height="65" alt="phone support"/>
                 </div>
