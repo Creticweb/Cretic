@@ -71,7 +71,7 @@ const Footer = () => {
         </div>
         {/* /.container */}
         <div className="container inner pt-0 pb-40 d-flex align-items-center">
-          <p className="mb-0 mr-auto">© 2020 Cretic Solutions. All rights reserved.</p>
+          <p className="mb-0 mr-auto">© 2020 SRV Impex International. All rights reserved.</p>
           <ul className="social social-mute  ml-auto">
             <li><i class="fab fa-cc-visa"></i></li>
             <li><i class="fab fa-cc-mastercard"></i></li>
