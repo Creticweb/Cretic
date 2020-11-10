@@ -27,6 +27,7 @@ const GstBuy = lazy(() => import("./pages/gstbuy"));
 const FSSAI = lazy(() => import("./pages/fssai"));
 const Terms = lazy(() => import("./pages/terms"));
 const Policy = lazy(() => import("./pages/privacy"));
+const MSME = lazy(() => import("./pages/msme"));
 
 const schemaMarkup = {
   "@context": "http://schema.org/",
@@ -64,6 +65,7 @@ function App() {
               <Route path="/contact" component={Contact} />
               <Route path="/gst-buy" component={GstBuy} />
               <Route path="/tnc" component={Terms} />
+              <Route path="/msme" component={MSME} />
               <Route path="/not-found" component={NotFound} />
               <Redirect to="/not-found" />
             </Switch>

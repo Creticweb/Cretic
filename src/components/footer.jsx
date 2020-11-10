@@ -11,6 +11,9 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-12 col-lg-3 text-center text-lg-left">
               <div className="widget"> <img src={logoO1x} srcset={logoO1x + ' 1x,' + logoO2x + ' 2x'} alt="logo"/>
+                   <div class="space20"></div>
+              <p>Cretic Solutions & Cretic Web Solutions is a part of SRV Impex International<br/>
+              GSTIN: 19DWNPD3571B1ZK</p>
                </div>
             </div>
             {/* /column */}
