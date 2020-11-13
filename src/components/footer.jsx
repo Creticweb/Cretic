@@ -51,7 +51,7 @@ const Footer = () => {
                 <h5 className="widget-title">Registration</h5>
                 <ul className="list-unstyled mb-0">
                   <li><a href="/gst-registration">GST Registration</a></li>
-                  <li><a href="/wk">MSME Registration</a></li>
+                  <li><a href="/msme">MSME Registration</a></li>
                   <li><a href="/wk">One Person Company</a></li>
                   <li><a href="/wk">Private Limited Company</a></li>
                   <li><a href="/wk">Limited Liability Partnership</a></li>

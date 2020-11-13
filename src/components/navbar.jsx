@@ -45,7 +45,7 @@ const Menu = (props) => {
                 <li className="nav-item dropdown"><a className="nav-link dropdown-toggle" href="/gst-registration">GST</a>
                   
                 </li>
-                <li className="nav-item dropdown"><a className="nav-link dropdown-toggle" href="/trade-license/wb">Trade License</a>
+                <li className="nav-item dropdown"><a className="nav-link dropdown-toggle" href="/trade-license/wb">MSME Registration</a>
                   
                 </li>
                 <li className="nav-item"><a className="nav-link" href="/fssai-registration">FSSAI</a>
