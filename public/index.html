@@ -102,24 +102,5 @@ s0.parentNode.insertBefore(s1,s0);
   <script src="style/js/plugins.js"></script>
   <script src="style/js/scripts.js"></script>
   
-  <script src="style/js/gdpr-cookie.js"></script>
-
-    <script>
-    $.gdprcookie.init({});
-    $(document.body)
-    .on("gdpr:show", function() {
-    console.log("Cookie dialog is shown");
-    })
-    .on("gdpr:accept", function() {
-    var preferences = $.gdprcookie.preference();
-    console.log("Preferences saved:", preferences);
-    })
-    .on("gdpr:advanced", function() {
-    console.log("Advanced button was pressed");
-    });
-    if ($.gdprcookie.preference("marketing") === true) {
-    console.log("This should run because marketing is accepted.");
-    }
-    </script>
   </body>
 </html>
